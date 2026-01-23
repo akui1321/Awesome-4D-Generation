@@ -35,6 +35,10 @@ List of papers on 4D Generation (From 2025 to now)
 
 📄 [Paper](https://arxiv.org/pdf/2503.16396) | 🌐 [Project Page](https://sv4d20.github.io/) | 💻 [Code](https://github.com/Stability-AI/generative-models)
 
+### **[ICCV 2025]** V2M4: 4D Mesh Animation Reconstruction from a Single Monocular Video
+
+📄 [Paper](https://arxiv.org/pdf/2503.09631) | 🌐 [Project Page](https://windvchen.github.io/V2M4/) | 💻 [Code](https://github.com/WindVChen/V2M4)
+
 ### **[ICCV 2025]** AnimateAnyMesh: A Feed-Forward 4D Foundation Model for Text-Driven Universal Mesh Animation
 
 📄 [Paper](https://arxiv.org/pdf/2506.09982) | 🌐 [Project Page](https://animateanymesh.github.io/AnimateAnyMesh/) | 💻 [Code](https://github.com/JarrentWu1031/AnimateAnyMesh)
