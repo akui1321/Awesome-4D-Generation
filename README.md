@@ -3,6 +3,10 @@ List of papers on 4D Generation (From 2025 to now)
 
 ## Recent Papers
 
+### **[Arxiv 2026.1]** Motion 3-to-4: 3D Motion Reconstruction for 4D Synthesis
+
+📄 [Paper](https://arxiv.org/pdf/2601.14253) | 🌐 [Project Page](https://motion3-to-4.github.io/) | 💻 [Code](https://github.com/Inception3D/Motion324)
+
 ### **[Arxiv 2026.1]** Mesh4D: 4D Mesh Reconstruction and Tracking from Monocular Video
 
 📄 [Paper](https://arxiv.org/pdf/2601.05251) | 🌐 [Project Page](https://mesh-4d.github.io/) | 💻 [Code](https://github.com/jzr99/Mesh4D)
