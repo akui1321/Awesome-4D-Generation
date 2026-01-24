@@ -9,7 +9,7 @@ List of papers on 4D Generation (From 2025 to now)
 
 ### **[Arxiv 2026.1]** RigMo: Unifying Rig and Motion Learning for Generative Animation
 
-📄 [Paper](https://arxiv.org/pdf/2601.06378) | 🌐 [Project Page](https://rigmo-page.github.io/) | 💻 [Code(Coming Soon)]
+📄 [Paper](https://arxiv.org/pdf/2601.06378) | 🌐 [Project Page](https://rigmo-page.github.io/)
 
 ### **[Arxiv 2026.1]** Mesh4D: 4D Mesh Reconstruction and Tracking from Monocular Video
 
