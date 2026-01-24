@@ -7,6 +7,10 @@ List of papers on 4D Generation (From 2025 to now)
 
 📄 [Paper](https://arxiv.org/pdf/2601.14253) | 🌐 [Project Page](https://motion3-to-4.github.io/) | 💻 [Code](https://github.com/Inception3D/Motion324)
 
+### **[Arxiv 2026.1]** RigMo: Unifying Rig and Motion Learning for Generative Animation
+
+📄 [Paper](https://arxiv.org/pdf/2601.06378) | 🌐 [Project Page](https://rigmo-page.github.io/) | 💻 [Code(Coming Soon)]
+
 ### **[Arxiv 2026.1]** Mesh4D: 4D Mesh Reconstruction and Tracking from Monocular Video
 
 📄 [Paper](https://arxiv.org/pdf/2601.05251) | 🌐 [Project Page](https://mesh-4d.github.io/) | 💻 [Code](https://github.com/jzr99/Mesh4D)
@@ -19,6 +23,10 @@ List of papers on 4D Generation (From 2025 to now)
 
 📄 [Paper](https://arxiv.org/pdf/2512.14284) | 🌐 [Project Page](https://lizb6626.github.io/SS4D/) | 💻 [Code](https://github.com/Lizb6626/SS4D)
 
+### **[Arxiv 2025.12]** AnimaMimic: Imitating 3D Animation from Video Priors
+
+📄 [Paper](https://arxiv.org/pdf/2512.14133) | 🌐 [Project Page](https://xpandora.github.io/AnimaMimic/)
+
 ### **[Arxiv 2025.12]** SWiT-4D: Sliding-Window Transformer for Lossless and Parameter-Free Temporal 4D Generation
 
 📄 [Paper](https://arxiv.org/pdf/2512.10860) | 🌐 [Project Page](https://animotionlab.github.io/SWIT4D/)
@@ -26,6 +34,10 @@ List of papers on 4D Generation (From 2025 to now)
 ### **[Arxiv 2025.10]** ShapeGen4D: Towards High Quality 4D Shape Generation from Videos
 
 📄 [Paper](https://arxiv.org/pdf/2510.06208) | 🌐 [Project Page](https://shapegen4d.github.io/)
+
+### **[NeurIPS 2025 (Spotlight)]** Puppeteer: Rig and Animate Your 3D Models
+
+📄 [Paper](https://arxiv.org/pdf/2508.10898) | 🌐 [Project Page](https://chaoyuesong.github.io/Puppeteer/) | 💻 [Code](https://github.com/Seed3D/Puppeteer)
 
 ### **[Arxiv 2025.6]** AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion Models
 
