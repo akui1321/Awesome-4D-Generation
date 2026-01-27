@@ -3,6 +3,10 @@ List of papers on 4D Generation (From 2025 to now)
 
 ## Recent Papers
 
+### **[Arxiv 2026.1]** ActionMesh: Animated 3D Mesh Generation with Temporal 3D Diffusion
+
+📄 [Paper](https://arxiv.org/pdf/2601.16148) | 🌐 [Project Page](https://remysabathier.github.io/actionmesh/) | 💻 [Code](https://github.com/facebookresearch/actionmesh)
+
 ### **[Arxiv 2026.1]** Motion 3-to-4: 3D Motion Reconstruction for 4D Synthesis
 
 📄 [Paper](https://arxiv.org/pdf/2601.14253) | 🌐 [Project Page](https://motion3-to-4.github.io/) | 💻 [Code](https://github.com/Inception3D/Motion324)
